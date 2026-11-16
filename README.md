@@ -26,3 +26,4 @@ The local preview is not a production service.
 - This is CI plus artifact delivery, not a deployed running application.
 
 This repository demonstrates Git version control, GitHub collaboration, automated testing, and website delivery.
+Feature branches allow developers to make changes independently before merging them into the main branch through a pull request.
